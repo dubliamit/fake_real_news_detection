@@ -92,15 +92,15 @@ This project demonstrates how machine learning can assist media organizations, f
 ## Machine Learning Pipeline
 
 News Article
-↓
+-
 Text Preprocessing
-↓
+-
 TF-IDF Vectorization
-↓
+-
 Feature Matrix
-↓
+-
 Model Training
-↓
+-
 Fake / Real Prediction
 
 ---
@@ -140,22 +140,9 @@ The Linear SVM model achieved the highest classification performance due to its 
 * Developed practical understanding of feature engineering using TF-IDF.
 
 ---
-## Repository Structure
-
-├── data/
-│ └── Real_and_Fake_News_Dataset.csv
-│
-├── notebooks/
-│ └── Fake_news_detection.ipynb
-│
-└── README.md
-
----
 
 ## Author
 
 Amit Dubli
-
 Data Analytics | Business Analytics | Data Science | Generative AI | Agentic AI
-
 Passionate about leveraging data, machine learning, and AI to solve real-world business problems through scalable analytical solutions.
