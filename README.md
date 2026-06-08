@@ -122,9 +122,9 @@ The models are evaluated using:
 
 | Model                   | Accuracy |
 | ----------------------- | -------- |
-| Logistic Regression     | XX.XX%   |
-| Linear SVM              | XX.XX%   |
-| Multinomial Naive Bayes | XX.XX%   |
+| Logistic Regression     | 97.71%   |
+| Linear SVM              | 98.58%   |
+| Multinomial Naive Bayes | 93.39%   |
 
 **Best Performing Model:** Linear SVM
 
@@ -141,35 +141,13 @@ The Linear SVM model achieved the highest classification performance due to its 
 * Developed practical understanding of feature engineering using TF-IDF.
 
 ---
-
-## Future Enhancements
-
-* Hyperparameter Tuning using GridSearchCV
-* Deep Learning Models (LSTM, GRU)
-* Transformer Models (BERT, RoBERTa)
-* Real-Time Fake News Detection API
-* Streamlit Web Application Deployment
-* Explainable AI (SHAP & LIME)
-
----
-
 ## Repository Structure
 
 ├── data/
-│ └── fake_news_dataset.csv
+│ └── Real_and_Fake_News_Dataset.csv
 │
 ├── notebooks/
-│ └── fake_news_analysis.ipynb
-│
-├── src/
-│ ├── preprocessing.py
-│ ├── train_model.py
-│ └── predict.py
-│
-├── models/
-│ └── svm_model.pkl
-│
-├── requirements.txt
+│ └── Fake_news_detection.ipynb
 │
 └── README.md
 
