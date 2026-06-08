@@ -89,22 +89,6 @@ This project demonstrates how machine learning can assist media organizations, f
 
 ---
 
-## Machine Learning Pipeline
-
-News Article
--
-Text Preprocessing
--
-TF-IDF Vectorization
--
-Feature Matrix
--
-Model Training
--
-Fake / Real Prediction
-
----
-
 ## Evaluation Metrics
 
 The models are evaluated using:
