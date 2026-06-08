@@ -28,8 +28,8 @@ This project demonstrates how machine learning can assist media organizations, f
 
 **Features:**
 
-* `text` : News article content
-* `label` : Target variable
+* text : News article content
+* label : Target variable
 
   * 1 = Real News
   * 0 = Fake News
@@ -80,7 +80,6 @@ This project demonstrates how machine learning can assist media organizations, f
 4. Text Vectorization using TF-IDF
 5. Train-Test Split
 6. Model Training
-
    * Logistic Regression
    * Linear SVM
    * Multinomial Naive Bayes
